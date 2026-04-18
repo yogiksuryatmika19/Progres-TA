@@ -15,7 +15,7 @@ theme:
         - navigation.sections
         - toc.follow
         - content.code.copy
-        - navigation.footer
+
         - navigation.path
 
 markdown_extensions:

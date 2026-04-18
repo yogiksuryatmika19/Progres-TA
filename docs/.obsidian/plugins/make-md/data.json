@@ -23,7 +23,7 @@
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
   "currentWaypoint": 1,
-  "enableFolderNote": true,
+  "enableFolderNote": false,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
@@ -38,9 +38,9 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Tags",
-    "CSS"
+    "CSS",
+    "/"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
