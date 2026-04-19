@@ -291,7 +291,6 @@ div.md-header__topic:nth-child(2) > span:nth-child(1) {
     margin-top: 2rem;
     margin-bottom: 2rem;
     min-width: 10rem;
-    max-height: 10rem;
 }
 
 .md-code__button {

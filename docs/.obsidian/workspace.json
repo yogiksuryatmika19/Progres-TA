@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Progres TA/Data Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Data Review"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "2f5d88e5c4cf94c2",
+            "id": "1f8e93cf0e7e841a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -196,6 +196,16 @@
   },
   "active": "60aa80f949efe828",
   "lastOpenFiles": [
+    "Images/Data Review-1.png",
+    "Images/Data Review.png",
+    "Images/Pasted image 20260419143850.png",
+    "Progres TA/Data Reservasi.md",
+    "Progres TA/Data Review.md",
+    "Images/Data Reservasi-3.png",
+    "Images/Data Reservasi-2.png",
+    "Images/Data Reservasi-1.png",
+    "Images/Data Reservasi.png",
+    "Progres TA",
     "index.md",
     "Images/black-fierce-dragon-yu-zhong-mobile-legends-ml-wallpaper-2560x1080_14.jpg",
     "Selenium/New Project.md",
@@ -224,8 +234,6 @@
     "Python/Accessing String.md",
     "Python/String.md",
     "Python/Casting.md",
-    "Python/Getting The Data Type.md",
-    "Python/Dictionary.md",
     "Pandas/New Text Document.txt",
     "Pandas",
     "Images/List.png",
@@ -233,13 +241,6 @@
     "Machine Learning",
     "Images/Virtual Env-2.png",
     "Images/Virtual Env-1.png",
-    "Images/Images.png",
-    "Images/Virtual Env.png",
-    "Images/Kurtosis-2.png",
-    "Images/Kurtosis-1.png",
-    "Images/Kurtosis.png",
-    "Images/Kemencengan-2.png",
-    "Images",
-    "Statistik"
+    "Images"
   ]
 }
