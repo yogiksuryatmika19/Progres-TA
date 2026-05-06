@@ -25,7 +25,7 @@ ul .md-tabs__list {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
 }
 
 /* kode inline di tabel tetap cyan */
