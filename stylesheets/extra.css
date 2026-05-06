@@ -106,8 +106,6 @@ ul .md-tabs__list {
 }
 
 .md-nav__item--section > .md-nav__link {
-    display: flex;
-    justify-content: center;
     background-color: transparent !important;
     box-shadow: none !important;
     letter-spacing: 0.05em;
