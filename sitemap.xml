@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Booking%20Web%20Component/List%20Akomodasi/</loc>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Penulisan%20Referensi/Pada%20Daftar%20Pustaka/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Penulisan%20Referensi/Pada%20Text/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Progres%20TA/Cleaning%20Data%20Reservasi/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Progres%20TA/Cleaning%20Data%20Review/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Progres%20TA/Data%20Reservasi/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Progres%20TA/Data%20Review/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Progres%20TA/Scrapping/</loc>
-         <lastmod>2026-05-07</lastmod>
+         <lastmod>2026-05-10</lastmod>
     </url>
 </urlset>
